@@ -1,0 +1,3 @@
+class BaseTest extends AbstractPage {
+
+}
